@@ -1,5 +1,36 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: auto;
+}
+header {
+  margin: auto;
+}
+
+img {
+  margin: auto;
+}
+
+a {
+ padding-left: 10px;
+ padding-right: 10px;
+ background-color: antiquewhite; 
+}
+
+figcaption {
+  font-size: smaller;
+}
+
+p {
+  width: 800px;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+div {
+  float: left;
+  background-color: azure;
+  margin: auto;
+  width: 25%;
 }
